@@ -10,6 +10,12 @@ const Color textGrey2 = Color(0xffA1A8B0);
 const TextStyle semiBold =
     TextStyle(fontSize: 22.0, fontWeight: FontWeight.w600);
 
+const TextStyle semiBold18 =
+    TextStyle(fontSize: 18.0, fontWeight: FontWeight.w600);
+
+const TextStyle semiBold12 = TextStyle(
+    fontSize: 12.0, fontWeight: FontWeight.w600, color: Color(0xffffffff));
+
 const TextStyle reguler =
     TextStyle(fontSize: 12.0, fontWeight: FontWeight.w500, color: textGrey);
 
